@@ -15,7 +15,7 @@ function switchLanguage() {
     downloadBtnAndroid = "zh-cn_generic_rgb_wo_60.png";
 
     $("#swipeSlides").empty();
-    for (var i = 1; i<= 5; i++) {
+    for (var i = 0; i< 5; i++) {
         $("#swipeSlides").append('<div class="swiper-slide" style=background-image:url("' +
             'img/' + screenshotPath + '/5.5-inch%20(iPhone%206+)%20-%20Screenshot%20' + i + '.jpg")></div>');
     }

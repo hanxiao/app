@@ -17,7 +17,7 @@ body {
 .swiper-slide {
     text-align: center;
     font-size: 18px;
-    background: #000099;
+    background-color: #003399;
     /* Center slide text vertically */
     display: -webkit-box;
     display: -ms-flexbox;
@@ -39,7 +39,7 @@ body {
 #title {
     font-size: 20px;
     text-align: center;
-    background-color: #000099;
+    background-color: #003399;
     padding: 0;
     color: #FFF;
     line-height: 3;
