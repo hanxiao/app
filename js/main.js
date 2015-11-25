@@ -46,7 +46,7 @@ function init() {
 
 function goAppStore() {
     var a = document.createElement('a');
-    a.setAttribute("href", 'https://geo.itunes.apple.com/us/app/verkehrszeichen-guru-vz-guru/id1041784760?mt=8');
+    a.setAttribute("href", 'https://itunes.apple.com/us/app/ou-jin-suo-ou-zhou-jin-rong/id1058576343?ls=1&mt=8');
     a.setAttribute("target", "_blank");
     fireClick(a);
 }
