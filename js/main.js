@@ -53,7 +53,7 @@ function goAppStore() {
 
 function goAndroidStore() {
     var a = document.createElement('a');
-    a.setAttribute("href", 'https://play.google.com/store/apps/details?id=com.ojins.vzguru');
+    a.setAttribute("href", 'https://play.google.com/store/apps/details?id=com.ojins.news');
     a.setAttribute("target", "_blank");
     fireClick(a);
 }
